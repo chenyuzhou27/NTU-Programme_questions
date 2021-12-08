@@ -1,0 +1,4 @@
+# patient_id	num_patches	purity_score	group_id
+m	37	0.37	3
+h	44	0.44	4
+j	90	0.9	8
